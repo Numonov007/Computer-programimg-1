@@ -47,13 +47,14 @@ d) we use >> when we are using cin, so it should be cin>>
 4 T    5 F it only reads input    6.F '5' is character while 5 is integer.  7.T
 */
 /*G*/
-/*H*/
 /*
 1.A      4.B
 2.C      5.B  
 3.C      6.B     7.D
 */
-/* #include <iostream>
+/*H*/
+/* 
+#include <iostream>
 using namespace std; 
 
 int main()
