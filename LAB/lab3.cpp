@@ -1,4 +1,58 @@
+/*A*/
+/*
+1. OK                                     6. OK
+2. It starts with number                  7. No, we can't use '-'
+3.OK                                      8. OK
+4.No,it is keyword                        9. OK
+5.No, It should be one 'student_age'      10. No, it is keyword
+*/
+/*B*/
+/*
+1.int              int student_number;
+2.double,float     double GPA; 
+3.char             char first_letter;
+4.bool             bool  library_open;
+5.double           double tem;
+6.long long, int   long long second;
+7.double           double pi;
+8.long long         long long popul;
+*/
+/*C*/
+/*
+1.3      5.-3     9.3
+2.2      6.-2     10.0
+3.17     7.13     11.2
+4.3.4    8.-2     12.7  7  14
+*/
+/*D*/
+/*
+  a    b
+  10   3
+  10   7
+  3    7
+  3    14
+  5    14
+  5    -2
+*/
+/*E*/
+/*
+a) 2nd row end with ; every statement end with ';'
+b) it should divided 3.0 
+c) it should be 'A' not "A"
+d) we use >> when we are using cin, so it should be cin>>
+*/
+/*F*/
+/*
+1.T    2 F  Total uses capital T total uses small     3 F  7/2.0   
+4 T    5 F it only reads input    6.F '5' is character while 5 is integer.  7.T
+*/
+/*G*/
 /*H*/
+/*
+1.A      4.B
+2.C      5.B  
+3.C      6.B     7.D
+*/
 /* #include <iostream>
 using namespace std; 
 
