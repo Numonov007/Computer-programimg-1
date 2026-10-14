@@ -228,4 +228,52 @@ int main (){
     return 0;
 }
 */
+/*8*/
+/*
 
+#include <iostream>
+
+using namespace std;
+
+int main() {
+    int num;
+    cin >> num;
+    
+    bool found = false;
+    int k = 0;
+    
+    
+    while (k <= num) {
+     
+        int temp = k;
+        int reverse_k = 0;
+        while (temp > 0) {
+            reverse_k = reverse_k * 10 + (temp % 10);
+            temp /= 10;
+        }
+        
+        if (k + reverse_k == num) {
+            found = true;
+            break; 
+        }
+        
+        k++;
+    }
+    
+    if (found) {
+        cout << "true" << endl;
+    } else {
+        cout << "false" << endl;
+    }
+    
+    return 0;
+}
+*/
+#include<iostream>
+using namespace std;
+int main (){
+
+
+
+    return 0;
+}
